@@ -1,7 +1,10 @@
 ### Hola! I'm Yunju Lee 🤓
 --- 
 #### ABOUT ME 😄
-I am a student who is passionate about producing results that people can enjoy through data analysis.
+-I'm studying Economics and Data Science at Sogang University
+-interested in financial data
+-persuing a life with full of joys
+
 ---
 #### STUDY 👯
 Currently, I'm studying Deep Learning algorithms through DALC
