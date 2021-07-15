@@ -1,13 +1,14 @@
+
 ### Hola! I'm Yunju Lee 🤓
 --- 
-#### ABOUT ME 😄
--I'm studying Economics and Data Science at Sogang University
--interested in financial data
--persuing a life with full of joys
+#### ABOUT ME 💜
+-🌱I'm studying Economics and Data Science at Sogang University<br />
+-💡interested in Financial data<br />
+-💛persuing a life with full of joys<br />
 
 ---
-#### STUDY 👯
-Currently, I'm studying Deep Learning algorithms through DALC
+#### STUDY 🖤
+-Currently studying Basic Algorithms and Machine learings
 
 <!--
 **Eunjung-Cho/Eunjung-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,10 +51,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Python-b2e619?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/R-90d5eb?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MongoDB-32cd32?style=flat-square&logo=mongoDB&logoColor=white"/></a>&nbsp
   
 
-  [![Eunjung-Cho's github stats](https://github-readme-stats.vercel.app/api?username=Eunjung-Cho&count_private=true&custom_title=Eunjung-Cho's&nbsp;github&nbsp;👀&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=392f31&text_color=392f31)](https://github.com/Eunjung-Cho/github-readme-stats) 
+  [![duridudu's github stats](https://github-readme-stats.vercel.app/api?username=duridudu&count_private=true&custom_title=duridudu's&nbsp;github&nbsp;👀&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=392f31&text_color=392f31)](https://github.com/duridudu/github-readme-stats) 
 
 <!--
 **duridudu/duridudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
