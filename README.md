@@ -1,5 +1,6 @@
 
- ## Hola! I'm Yunju Lee 🤓
+![배경이미지](https://github.com/duridudu/duridudu/blob/main/a8190f77918775d7e67b01941e1927c7.jpg)
+## Hola! I'm Yunju Lee 🤓
 --- 
 ### ABOUT ME 💜
 -🌱I'm studying **_Economics_** and **_Data Science_** at Sogang University<br />
