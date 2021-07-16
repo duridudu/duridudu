@@ -11,8 +11,8 @@
 
 -Currently studying 
 
-*[Basic Algorithms](https://github.com/duridudu/dupository/tree/이것이-알고리즘이다 "알고리즘 레퍼지토리로 이동!") and <br/>
-*[Machine learings](https://github.com/duridudu/dupository/tree/혼공머신 "머신러닝 레퍼지토리로 이동!")
+*[Basic Algorithms](https://github.com/duridudu/dupository/tree/이것이-알고리즘이다 "알고리즘 레퍼지토리로 이동!") by. 이것이 코딩테스트를 위한 알고리즘이다 <br/>
+*[Machine learings](https://github.com/duridudu/dupository/tree/혼공머신 "머신러닝 레퍼지토리로 이동!") by. 혼자 공부하는 머신러닝
 
 ---
 ### 🛠TECH STACK🛠
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   
 
-  [![duridudu's github stats](https://github-readme-stats.vercel.app/api?username=duridudu&count_private=true&custom_title=duridudu's&nbsp;github&nbsp;👀&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=392f31&text_color=392f31)](https://github.com/duridudu/github-readme-stats) 
+  [![duridudu's github stats](https://github-readme-stats.vercel.app/api?username=duridudu&count_private=true&custom_title=duridudu's&nbsp;github&nbsp;✨&bg_color=45,f093a0,ffc2c2,f36b7f&title_color=ffffff&text_color=ffffff)](https://github.com/duridudu/github-readme-stats) 
 
 
 <!--
