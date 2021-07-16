@@ -1,5 +1,5 @@
 
-![배경이미지](https://github.com/duridudu/duridudu/blob/main/a8190f77918775d7e67b01941e1927c7.jpg)
+![배경이미지](https://github.com/duridudu/duridudu/blob/main/a3b9dca938e4a8aeadcbe5ba4a87e701fc95c3cd.jpeg)
 ## Hola! I'm Yunju Lee 🤓
 --- 
 ### ABOUT ME 💜
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   
 
-  [![duridudu's github stats](https://github-readme-stats.vercel.app/api?username=duridudu&count_private=true&custom_title=duridudu's&nbsp;github&nbsp;✨&bg_color=45,f093a0,ffc2c2,f36b7f&title_color=ffffff&text_color=ffffff)](https://github.com/duridudu/github-readme-stats) 
+  [![duridudu's github stats](https://github-readme-stats.vercel.app/api?username=duridudu&count_private=true&custom_title=duridudu's&nbsp;github&nbsp;✨&bg_color=45,00a4f0,66cfff,00a1eb&title_color=ffffff&text_color=ffffff)](https://github.com/duridudu/github-readme-stats) 
 
 
 <!--
