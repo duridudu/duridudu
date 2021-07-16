@@ -1,18 +1,21 @@
 
- ### Hola! I'm Yunju Lee 🤓
+ ## Hola! I'm Yunju Lee 🤓
 --- 
-#### ABOUT ME 💜
--🌱I'm studying Economics and Data Science at Sogang University<br />
--💡interested in Financial data<br />
+### ABOUT ME 💜
+-🌱I'm studying **_Economics_** and **_Data Science_** at Sogang University<br />
+-💡interested in **_Financial data_**<br />
 -💛persuing a life with full of joys<br />
 
 ---
-#### STUDY 🖤
+### STUDY 🖤
 
--Currently studying Basic Algorithms and Machine learings
+-Currently studying 
+
+*[Basic Algorithms](https://github.com/duridudu/dupository/tree/이것이-알고리즘이다 "알고리즘 레퍼지토리로 이동!") and <br/>
+*[Machine learings](https://github.com/duridudu/dupository/tree/혼공머신 "머신러닝 레퍼지토리로 이동!")
 
 ---
- #### 🛠TECH STACK🛠
+### 🛠TECH STACK🛠
  <p align="left">
     <img src="https://img.shields.io/badge/Python-b2e619?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/R-90d5eb?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
