@@ -1,15 +1,17 @@
 
 ![배경이미지](https://github.com/duridudu/duridudu/blob/main/a3b9dca938e4a8aeadcbe5ba4a87e701fc95c3cd.jpeg)
+
 ## Hola! I'm Yunju Lee 🤓
---- 
-### ABOUT ME 💜
+---
+
+### ABOUT ME 🤍
 -🌱I'm studying **_Economics_** and **_Data Science_** at Sogang University<br />
 -💡interested in **_Financial data_**<br />
 -💛persuing a life with full of joys<br />
 -🐶SNOOPY lover
 
 ---
-### STUDY 🖤
+### STUDY 💙
 
 -Currently studying 
 
