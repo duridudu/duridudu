@@ -13,11 +13,11 @@
 ---
 ### STUDY 💙
 
--Currently studying 
+Currently studying 
 
-*[Basic Algorithms](https://github.com/duridudu/dupository/tree/이것이-알고리즘이다 "알고리즘 레퍼지토리로 이동!") by. 이것이 취업을 위한 코딩테스트다 <br/>
-*[Machine learings](https://github.com/duridudu/dupository/tree/혼공머신 "머신러닝 레퍼지토리로 이동!") by. 혼자 공부하는 머신러닝
-*[school projects](https://github.com/duridudu/dupository/tree/학교 "학교 레퍼지토리로 이동!") : small school assignments and projects
+-🔠[Basic Algorithms](https://github.com/duridudu/dupository/tree/이것이-알고리즘이다 "알고리즘 레퍼지토리로 이동!") by. 이것이 취업을 위한 코딩테스트다 <br/>
+-⚙️[Machine learings](https://github.com/duridudu/dupository/tree/혼공머신 "머신러닝 레퍼지토리로 이동!") by. 혼자 공부하는 머신러닝<br/>
+-🏫[school projects](https://github.com/duridudu/dupository/tree/학교 "학교 레퍼지토리로 이동!") : small school assignments and projects
 
 ---
 ### 🛠TECH STACK🛠
