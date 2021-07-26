@@ -23,8 +23,9 @@ Currently studying
 ### 🛠TECH STACK🛠
  <p align="left">
     <img src="https://img.shields.io/badge/Python-b2e619?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/R-90d5eb?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+    
+    <img src="https://img.shields.io/badge/R-90d5eb?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
   
 
   [![duridudu's github stats](https://github-readme-stats.vercel.app/api?username=duridudu&count_private=true&custom_title=duridudu's&nbsp;github&nbsp;✨&bg_color=45,00a4f0,66cfff,00a1eb&title_color=ffffff&text_color=ffffff)](https://github.com/duridudu/github-readme-stats) 
