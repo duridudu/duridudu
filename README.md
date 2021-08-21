@@ -4,14 +4,13 @@
 ## Hola! I'm Yunju Lee 🤓
 ---
 
-### ABOUT ME 🤍
--🌱I'm studying **_Economics_** and **_Data Science_** at Sogang University<br />
--💡interested in **_Financial data_**<br />
--💛persuing a life with full of joys<br />
--🐶SNOOPY lover
+### ABOUT ME 
+-I'm studying **_Economics_** and **_Data Science_** at Sogang University<br />
+-interested in **_Financial data_**<br />
+-SNOOPY lover
 
 ---
-### STUDY 💙
+### STUDY 
 
 Currently studying 
 
