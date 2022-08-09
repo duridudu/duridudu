@@ -1,18 +1,17 @@
 
 ![배경이미지](https://github.com/duridudu/duridudu/blob/main/a3b9dca938e4a8aeadcbe5ba4a87e701fc95c3cd.jpeg)
 
-## Hola! I'm Yunju Lee 🤓
+## 새싹 개발자 🤓
 ---
 
 ### ABOUT ME 
--I'm studying **_Economics_** and **_Data Science_** at Sogang University<br />
--interested in **_Financial data_**<br />
--SNOOPY lover
-
+-**_Economics_** and **_Data Science_** at Sogang University<br />
+-interested in **_Machine Learning_**, **_Financial data_**<br />
+-Now Studying Web Development at SSAFY
 ---
-### STUDY 
+### Projects
 
-Currently studying 
+Projects about Machine Learning with **INSIGHT**
 
 -🔠[Basic Algorithms](https://github.com/duridudu/dupository/tree/이것이-알고리즘이다 "알고리즘 레퍼지토리로 이동!")  <br/>
 -⚙️[Machine learings](https://github.com/duridudu/dupository/tree/혼공머신 "머신러닝 레퍼지토리로 이동!") <br/>
@@ -22,6 +21,7 @@ Currently studying
 ### 🛠TECH STACK🛠
  <p align="left">
     <img src="https://img.shields.io/badge/Python-b2e619?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
     
   
