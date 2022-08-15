@@ -5,7 +5,7 @@
 ---
 
 ### ABOUT ME 
--**_Economics_** and **_Data Science_** at Sogang University<br />
+-**_Economics_** and **_Data Science_** major<br />
 -interested in **_Machine Learning_**, **_Financial data_**<br />
 -Now Studying Web Development at SSAFY
 ---
@@ -13,9 +13,9 @@
 
 Projects about Machine Learning with **INSIGHT**
 
--🔠[Basic Algorithms](https://github.com/duridudu/dupository/tree/이것이-알고리즘이다 "알고리즘 레퍼지토리로 이동!")  <br/>
--⚙️[Machine learings](https://github.com/duridudu/dupository/tree/혼공머신 "머신러닝 레퍼지토리로 이동!") <br/>
--🏫[school projects](https://github.com/duridudu/dupository/tree/학교 "학교 레퍼지토리로 이동!")
+-🔠[Image Captioning](https://github.com/duridudu/dupository/tree/CationTeam)  <br/>
+-⚙️[NLP & APP](https://github.com/duridudu/dupository/tree/KBsecuritie-AIservice ) <br/>
+-🏫[Recommendation system](https://github.com/duridudu/dupository/tree/musinsa_closet)
 
 ---
 ### 🛠TECH STACK🛠
