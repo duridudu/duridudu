@@ -13,9 +13,9 @@
 
 Projects about Machine Learning with **INSIGHT**
 
--🔠[Image Captioning](https://github.com/duridudu/dupository/CationTeam "이미지 캡셔닝")  <br/>
--⚙️[NLP & APP](https://github.com/duridudu/KBsecuritie-AIservice "kb공모전") <br/>
--🏫[Recommendation system](https://github.com/duridudu/dupository/musinsa_closet "무천장")
+-🔠[Image Captioning](https://github.com/duridudu/CationTeam "이미지 캡셔닝")  <br/>
+-⚙️[NLP & APP (KB증권 공모전)](https://github.com/duridudu/KBsecuritie-AIservice "kb공모전") <br/>
+-🏫[Recommendation system](https://github.com/duridudu/musinsa_closet "무천장")
 
 ---
 ### 🛠TECH STACK🛠
