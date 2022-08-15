@@ -21,7 +21,7 @@ Projects about Machine Learning & AI with **INSIGHT**
  <p align="left">
     <img src="https://img.shields.io/badge/Python-b2e619?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-    <img src=https://img.shields.io/badge/Java-E6B91E?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> 
     
     
     
