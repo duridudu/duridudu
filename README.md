@@ -5,9 +5,9 @@
 ---
 
 ### ABOUT ME 
--**_Economics_** and **_Data Science_** major<br />
--interested in **_Machine Learning_**, **_Financial data_**<br />
--Now Studying Web Development at SSAFY
+- **Economics and Data Science** major, Sogang University <br />
+- interested in **Machine Learning**, **Financial data**<br />
+- Now Studying **Web Development** at SSAFY
 ---
 ### Projects
 
