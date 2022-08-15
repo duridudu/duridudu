@@ -3,7 +3,6 @@
 
 ## 새싹 개발자 🤓
 ---
-
 ### ABOUT ME 
 - **Economics and Data Science** major, Sogang University <br />
 - interested in **Machine Learning**, **Financial data**<br />
