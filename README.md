@@ -13,8 +13,8 @@
 
 Projects about Machine Learning with **INSIGHT**
 
--🔠[Image Captioning]([https://github.com/duridudu/dupository/CationTeam])  <br/>
--⚙️[NLP & APP](https://github.com/duridudu/dupository/tree/KBsecuritie-AIservice ) <br/>
+-🔠[Image Captioning](https://github.com/duridudu/dupository/CationTeam)  <br/>
+-⚙️[NLP & APP](https://github.com/duridudu/dupository/KBsecuritie-AIservice ) <br/>
 -🏫[Recommendation system](https://github.com/duridudu/dupository/tree/musinsa_closet)
 
 ---
