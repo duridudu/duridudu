@@ -12,9 +12,9 @@
 
 Projects about Machine Learning & AI with **INSIGHT**
 
--🔠[Image Captioning](https://github.com/duridudu/CaptionTeam "이미지 캡셔닝")  <br/>
+-🔠[Image Captioning (인사이트 21-1 이미지 캡셔닝 프로젝트)](https://github.com/duridudu/CaptionTeam "이미지 캡셔닝")  <br/>
 -⚙️[NLP & APP (KB증권 공모전)](https://github.com/duridudu/KBsecuritie-AIservice "kb공모전") <br/>
--🏫[Recommendation system](https://github.com/duridudu/musinsa_closet "무천장")
+-🏫[Recommendation system (인사이트 22-1 추천시스템 프로젝트)](https://github.com/duridudu/musinsa_closet "무천장")
 
 ---
 ### 🛠TECH STACK🛠
