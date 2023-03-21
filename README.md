@@ -16,6 +16,8 @@ Projects about Machine Learning & AI with **INSIGHT**
 -⚙️[NLP & APP (KB증권 공모전)](https://github.com/duridudu/KBsecuritie-AIservice "kb공모전") <br/>
 -🏫[Recommendation system (인사이트 22-1 추천시스템 프로젝트)](https://github.com/duridudu/musinsa_closet "무천장")
 
+Projects about Web at **SSAFY**
+
 ---
 ### 🛠TECH STACK🛠
  <p align="left">
