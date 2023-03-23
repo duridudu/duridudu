@@ -17,6 +17,7 @@ Projects about Machine Learning & AI with **INSIGHT**
 -🏫[Recommendation system (인사이트 22-1 추천시스템 프로젝트)](https://github.com/duridudu/musinsa_closet "무천장")
 
 Projects about Web at **SSAFY**
+어쩌구저쩌꾸꿍시렁꿍시렁....꿍얼꿍얼
 
 ---
 ### 🛠TECH STACK🛠
