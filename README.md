@@ -18,6 +18,7 @@ Projects about Machine Learning & AI with **INSIGHT**
 
 Projects about Web at **SSAFY** <br/>
 -🦉[WebRTC & SpringBoot (공통프로젝트 "뷰엉이")](https://github.com/duridudu/ViewEongEee "뷰엉이") <br/>
+-💸[NFT & SpringBoot (특화프로젝트 "NFasT")](https://github.com/duridudu/NFasT "NFasT") <br/>
 
 ---
 ### 🛠TECH STACK🛠
