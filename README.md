@@ -16,7 +16,7 @@ Projects about Machine Learning & AI with **INSIGHT**
 -⚙️[NLP & APP (KB증권 공모전)](https://github.com/duridudu/KBsecuritie-AIservice "kb공모전") <br/>
 -🏫[Recommendation system (인사이트 22-1 추천시스템 프로젝트)](https://github.com/duridudu/musinsa_closet "무천장")
 
-Projects about Web at **SSAFY** <br/>
+Web projects in **SSAFY 8th** <br/>
 -🦉[WebRTC & SpringBoot (공통프로젝트 "뷰엉이")](https://github.com/duridudu/ViewEongEee "뷰엉이") <br/>
 -💸[NFT & SpringBoot (특화프로젝트 "NFasT")](https://github.com/duridudu/NFasT "NFasT") <br/>
 
