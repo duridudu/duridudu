@@ -6,7 +6,8 @@
 ### ABOUT ME 
 - **Economics and Data Science** major, Sogang University <br />
 - interested in **Machine Learning**, **Financial data**<br />
-- Now Studying **Web Development** at SSAFY
+- learned **Web Development** at SSAFY
+- now **Android Developer** at KB Securities
 ---
 ### Projects
 
