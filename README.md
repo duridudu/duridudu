@@ -5,8 +5,8 @@
 ---
 ### ABOUT ME 
 - **Economics and Data Science** major, Sogang University <br />
-- interested in **Machine Learning**, **Financial data**<br />
-- learned **Web Development** at SSAFY
+- interested in **Server Development**, **Financial data**<br />
+- learned **Web Development** at SSAFY
 - now **Android Developer** at KB Securities
 ---
 ### Projects
@@ -20,6 +20,9 @@ Projects about Machine Learning & AI with **INSIGHT**
 Web projects in **SSAFY 8th** <br/>
 -🦉[WebRTC & SpringBoot (공통프로젝트 "뷰엉이")](https://github.com/duridudu/ViewEongEee "뷰엉이") <br/>
 -💸[NFT & SpringBoot (특화프로젝트 "NFasT")](https://github.com/duridudu/NFasT "NFasT") <br/>
+
+Side projects <br/>
+-🎂[React (Happy-Unbirtday)](https://github.com/minji428/unbirthday-front)<br/>
 
 ---
 ### 🛠TECH STACK🛠
