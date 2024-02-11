@@ -20,6 +20,7 @@ Projects about Machine Learning & AI with **INSIGHT**
 Web projects in **SSAFY 8th** <br/>
 -🦉[WebRTC & SpringBoot (공통프로젝트 "뷰엉이")](https://github.com/duridudu/ViewEongEee "뷰엉이") <br/>
 -💸[NFT & SpringBoot (특화프로젝트 "NFasT")](https://github.com/duridudu/NFasT "NFasT") <br/>
+-[React & SpringBoot (자율프로젝트 "Ssavival")](https://github.com/duridudu/Ssavival "Ssavival")<br/>
 
 Side projects <br/>
 -🎂[React (Happy-Unbirtday)](https://github.com/minji428/unbirthday-front)<br/>
