@@ -1,14 +1,14 @@
 
 ![배경이미지](https://github.com/duridudu/duridudu/blob/main/a3b9dca938e4a8aeadcbe5ba4a87e701fc95c3cd.jpeg)
 
-## 새싹 개발자 🤓
+## Mrs.안두로이두의 깃헙에 오신걸 환영합니다 ✨
 ---
-### ABOUT ME 
+### 📍 ABOUT ME 
 - **Economics and Data Science** major, Sogang University <br />
 - learned **Web Development** at SSAFY
 - now **Android Developer** at Securities Company
 ---
-### Projects
+### 📍 Projects
 **Android projects**<br/>
 -🥚[일일이](https://github.com/duridudu/oneone2)<br/>
 
