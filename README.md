@@ -5,9 +5,8 @@
 ---
 ### ABOUT ME 
 - **Economics and Data Science** major, Sogang University <br />
-- interested in **Server Development**, **Financial data**<br />
 - learned **Web Development** at SSAFY
-- now **Android Developer** at Securities
+- now **Android Developer** at Securities Company
 ---
 ### Projects
 **Android projects**<br/>
