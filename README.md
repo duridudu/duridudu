@@ -4,9 +4,10 @@
 ## Mrs.안두로이두의 깃헙에 오신걸 환영합니다 ✨
 ---
 ### 📍 ABOUT ME 
-- **Economics and Data Science** major, Sogang University <br />
+- now **Android Developer** at Financial Company
 - learned **Web Development** at SSAFY
-- now **Android Developer** at Securities Company
+- **Economics and Data Science** major, Sogang University <br />
+
 ---
 ### 📍 Projects
 **Android projects**<br/>
