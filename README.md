@@ -1,6 +1,5 @@
-<p align="center">
- <img src = ![커비](https://github.com/user-attachments/assets/192adf92-5099-47de-81ee-3fe72c86a2b6)>
-</p>
+![커비](https://github.com/user-attachments/assets/e5840db2-2663-4594-8029-cebe3bb9b937)
+
 
 ## Mrs.안두로이두의 깃헙에 오신걸 환영합니다 ✨
 ---
