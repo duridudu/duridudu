@@ -1,5 +1,6 @@
-
-![배경이미지](https://github.com/duridudu/duridudu/blob/main/a3b9dca938e4a8aeadcbe5ba4a87e701fc95c3cd.jpeg)
+<p align="center">
+ <img src = ![커비](https://github.com/user-attachments/assets/192adf92-5099-47de-81ee-3fe72c86a2b6)>
+</p>
 
 ## Mrs.안두로이두의 깃헙에 오신걸 환영합니다 ✨
 ---
