@@ -1,5 +1,4 @@
-![커비](https://github.com/user-attachments/assets/e5840db2-2663-4594-8029-cebe3bb9b937)
-
+<img src="https://github.com/user-attachments/assets/e5840db2-2663-4594-8029-cebe3bb9b937" style = "width:400px" />
 
 ## 새싹 앱개발자입니다 ✨
 ---
