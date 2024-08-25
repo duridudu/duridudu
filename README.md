@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/e5840db2-2663-4594-8029-cebe3bb9b937" style = "width:400px" />
 
-## 새싹 앱개발자입니다 ✨
+## 안녕하세요, 새싹 앱개발자입니다 ✨
 ---
 ### 📍 ABOUT ME 
 - now **Android Developer** at Financial Company
