@@ -8,9 +8,16 @@
 - **Economics and Data Science** major, Sogang University <br />
 
 ---
+### 📍 My Dev-Blog
+- https://velog.io/@duridudu/posts
+
+---
 ### 📍 Projects
 **Android projects**<br/>
 -🥚[일일이](https://github.com/duridudu/oneone2)<br/>
+
+**iOS Practices**<br/>
+-📲[iOS 실습 레포지토리](https://github.com/duridudu/iOS)<br/>
 
 Web projects in **SSAFY 8th** <br/>
 -🦉[WebRTC & SpringBoot (공통프로젝트 - 취준생을 위한 화상면접 서비스 "뷰엉이")](https://github.com/duridudu/ViewEongEee "뷰엉이") <br/>
