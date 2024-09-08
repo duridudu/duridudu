@@ -3,7 +3,7 @@
 ## 안녕하세요, 새싹 앱개발자입니다 ✨
 ---
 ### 📍 ABOUT ME 
-- now **Android Developer** at Financial Company
+- now **App Developer** at Financial Company
 - learned **Web Development** at SSAFY
 - **Economics and Data Science** major, Sogang University <br />
 
