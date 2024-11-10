@@ -14,7 +14,7 @@
 ---
 ### 📍 Projects
 **iOS project**<br/>
--🥚[일일이](https://github.com/duridudu/iOS/tree/master/oneone2)<br/>
+-🍏[일일이](https://github.com/duridudu/iOS/tree/master/oneone2)<br/>
 **Android projects**<br/>
 -🥚[일일이](https://github.com/duridudu/oneone2)<br/>
 
